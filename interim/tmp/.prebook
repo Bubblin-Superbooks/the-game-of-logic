@@ -72,34 +72,6 @@
     "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "CONTENTS."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "CHAPTER                                PAGE"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "I.  NEW LAMPS FOR OLD.\n         1.  Propositions  .  .  .  .  .  .  .  1\n         2.  Syllogisms .  .  .  .  .  .  .  . 20\n         3.  Fallacies  .  .  .  .  .  .  .  . 32"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "II.  CROSS QUESTIONS.\n         1.  Elementary .  .  .  .  .  .  .  . 37\n         2.  Half of Smaller Diagram. Propositions\n               to be represented .  .  .  .  . 40\n         3.  Do. Symbols to be interpreted.  . 42\n         4.  Smaller Diagram.  Propositions to be\n               represented .  .  .  .  .  .  . 44\n         5.  Do. Symbols to be interpreted.  . 46\n         6.  Larger Diagram.  Propositions to be\n               represented .  .  .  .  .  .  . 48\n         7.  Both Diagrams to be employed .  . 51"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "III.  CROOKED ANSWERS.\n         1.  Elementary .  .  .  .  .  .  .  . 55\n         2.  Half of Smaller Diagram.  Propositions\n               represented .  .  .  .  .  .  . 59\n         3.  Do.  Symbols interpreted  .  .  . 61\n         4.  Smaller Diagram. Propositions represented. 62\n         5.  Do.  Symbols interpreted  .  .  . 65\n         6.  Larger Diagram. Propositions represented. 67\n         7.  Both Diagrams employed .  .  .  . 72"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "IV.  HIT OR MISS   .  .  .  .  .  .  .  .  . 85"
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h4",
     "innerHtml": "Chapter I."
   },
